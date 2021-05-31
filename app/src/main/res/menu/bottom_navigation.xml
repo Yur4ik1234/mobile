@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+  <item android:id="@+id/navigation_account"
+      android:icon="@drawable/ic_baseline_face_24"
+      android:title="Account" />
+
+    <item android:id="@+id/navigation_favorite"
+        android:icon="@drawable/ic_baseline_favorite_24"
+        android:title="Favorite_words" />
+
+    <item android:id="@+id/navigation_text"
+        android:icon="@drawable/ic_baseline_textsms_24"
+        android:title="Favorite_words" />
+
+    <item android:id="@+id/navigation_settings"
+        android:icon="@drawable/ic_baseline_settings_24"
+        android:title="Settings" />
+
+
+
+
+</menu>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "77162318783",
+    "project_id": "inspar-3831a",
+    "storage_bucket": "inspar-3831a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:77162318783:android:c94fb9ffcfbab6dcb8af0a",
+        "android_client_info": {
+          "package_name": "com.example.first_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "77162318783-9dopmllfiaj3sl4v8hj7ge955v1tujo1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANpUrP4Lr9F1LA1ir0qc7m4236njzoPjA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "77162318783-9dopmllfiaj3sl4v8hj7ge955v1tujo1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
